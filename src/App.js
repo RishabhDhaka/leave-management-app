@@ -4,7 +4,6 @@ import 'react-calendar/dist/Calendar.css';
 import './App.css';
 
 const App = () => {
-  const resources = ['Ayush', 'Akshay', 'Ashish'];
   const [user, setUser] = useState({ type: 'resource', name: 'Ayush' });
   const [selectedDate, setSelectedDate] = useState(new Date());
   const [leaves, setLeaves] = useState([]);
