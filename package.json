@@ -2,7 +2,7 @@
   "name": "leave-management-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/leave-management-app",
+  "homepage": "https://rishabhdhaka.github.io/leave-management-app",
   "dependencies": {
     "date-fns": "^2.30.0",
     "react": "^18.2.0",
