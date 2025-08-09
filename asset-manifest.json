@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/leave-management-app/static/css/main.21b46836.css",
-    "main.js": "/leave-management-app/static/js/main.0711cca8.js",
+    "main.js": "/leave-management-app/static/js/main.154da9cd.js",
     "index.html": "/leave-management-app/index.html",
     "main.21b46836.css.map": "/leave-management-app/static/css/main.21b46836.css.map",
-    "main.0711cca8.js.map": "/leave-management-app/static/js/main.0711cca8.js.map"
+    "main.154da9cd.js.map": "/leave-management-app/static/js/main.154da9cd.js.map"
   },
   "entrypoints": [
     "static/css/main.21b46836.css",
-    "static/js/main.0711cca8.js"
+    "static/js/main.154da9cd.js"
   ]
 }
