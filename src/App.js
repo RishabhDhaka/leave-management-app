@@ -205,15 +205,6 @@ const LoginPage = ({ onLogin }) => {
           {error && <div className="error-message">{error}</div>}
           <button type="submit" className="login-btn">Login</button>
         </form>
-        <div className="login-info">
-          <h4>Demo Credentials:</h4>
-          <p><strong>Resources:</strong></p>
-          <p>Ayush@pentair.com - Pentair</p>
-          <p>Akshay@pentair.com - Pentair</p>
-          <p>Ashish@pentair.com - Pentair</p>
-          <p><strong>Lead:</strong></p>
-          <p>rishabh.dhaka@pentair.com - Password@123</p>
-        </div>
       </div>
     </div>
   );
